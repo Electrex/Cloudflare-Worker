@@ -4,7 +4,7 @@ class NameTransformer {
   }
   
   async element(element) {
-    element.setAttribute("src", this.name)
+    element.setInnerContent(this.name)
   }
 }
 

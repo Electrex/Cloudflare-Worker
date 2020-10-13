@@ -1,4 +1,5 @@
 /**
+ * TODO shrink or replace this file with another implementation
  * Helper functions that when passed a request will return a
  * boolean indicating if the request uses that HTTP method,
  * header, host or referrer.
